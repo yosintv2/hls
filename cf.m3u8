@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
+https://customer-8xsdojwqduvcbnkh.cloudflarestream.com/6b5aaf48d82b8420f249ce8f1c3af521/manifest/video.m3u8
